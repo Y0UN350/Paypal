@@ -1,0 +1,8 @@
+https://www.youtube.com/watch?v=DNM9FdFrI1k
+
+
+- mod init -y
+- npm i express ejs dotenv @paypal/checkout-server-sdk
+dotenv is gonna be where we store all environment variables like paypal API key
+
+- install: npm i --save-dev nodemon
